@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a recipe website that will test basic HTML like links, an index page and lists.  It will also serve to aqaint me with the use of git and github, and the work of committing iterations of the project.  Once completed, I will have demonstrated skills in the use of links to other pages, image display, ordered and unordered lists and committing to git.
